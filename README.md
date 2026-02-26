@@ -1,13 +1,14 @@
-### Boas vindas ao meu perfil 💙
+Desenvolvedor em formação focado em desenvolvimento web.
 
-Meu nome é Felipe Laverdi
+💻 Tecnologias:
+- HTML5
+- CSS3
+- JavaScript (Estudando)
+- Git (Básico)
 
-- Estou estudando na [Alura] (https://www.alura.com.br)
-- Estou me desenvolvendo na liguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+🚀 Atualmente desenvolvendo:
+- Projetos autorais para aprimorar lógica e manipulação de DOM
+- Aplicações web responsivas
 
-### Você entrar em contato comigo 📧
-
-laverdifelipe@gmail.con
-
-@f.laverdi_
+📌 Objetivo:
+Estágio em desenvolvimento para aplicar conhecimentos em projetos reais.
