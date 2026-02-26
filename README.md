@@ -8,6 +8,6 @@ Meu nome é Felipe Laverdi
 
 ### Você entrar em contato comigo 📧
 
-felipe.laverdi@escola.pr.gov.br
+laverdifelipe@gmail.con
 
 @f.laverdi_
