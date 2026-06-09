@@ -4,6 +4,10 @@ Desenvolvedor em formação focado em desenvolvimento web, com interesse em cons
 
 🚀 Tecnologias
 
+Java
+
+Spring boot
+
 HTML5
 
 CSS3
